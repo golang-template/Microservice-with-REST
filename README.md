@@ -1,2 +1,2 @@
 # Microservice-with-REST
-implementing microservice Rest api using gRPC and RabbitMQ 
+implementing microservice Rest api using RabbitMQ 
